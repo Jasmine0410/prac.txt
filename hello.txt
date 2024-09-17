@@ -1,1 +1,0 @@
-we have created a file here . now lets bring this file alone to code editor.
